@@ -32,4 +32,11 @@ string[] FilterArrayByLength(string[] array)
 
         return filteredArray;
     }
+ string[] filteredArray = FilterArrayByLength(initialArray);
+
+        Console.WriteLine("Отфильтрованный массив:");
+        foreach (string item in filteredArray)
+        {
+            Console.WriteLine(item);
+        }
 
