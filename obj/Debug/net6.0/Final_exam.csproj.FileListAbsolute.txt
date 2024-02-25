@@ -1,0 +1,15 @@
+C:\Users\Huawei1\Desktop\Final_exam\bin\Debug\net6.0\Final_exam.exe
+C:\Users\Huawei1\Desktop\Final_exam\bin\Debug\net6.0\Final_exam.deps.json
+C:\Users\Huawei1\Desktop\Final_exam\bin\Debug\net6.0\Final_exam.runtimeconfig.json
+C:\Users\Huawei1\Desktop\Final_exam\bin\Debug\net6.0\Final_exam.dll
+C:\Users\Huawei1\Desktop\Final_exam\bin\Debug\net6.0\Final_exam.pdb
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.csproj.AssemblyReference.cache
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.AssemblyInfoInputs.cache
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.AssemblyInfo.cs
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.csproj.CoreCompileInputs.cache
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.dll
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\refint\Final_exam.dll
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.pdb
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\Final_exam.genruntimeconfig.cache
+C:\Users\Huawei1\Desktop\Final_exam\obj\Debug\net6.0\ref\Final_exam.dll

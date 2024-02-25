@@ -37,6 +37,6 @@ string[] FilterArrayByLength(string[] array)
         Console.WriteLine("Отфильтрованный массив:");
         foreach (string item in filteredArray)
         {
-            Console.WriteLine(item);
+            Console.Write($"{item} ");
         }
 
